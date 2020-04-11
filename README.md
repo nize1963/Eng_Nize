@@ -18,12 +18,12 @@ Project from scratch for arab web developers who search for a full project using
 
 <h2>Steps to download project:</h2>
 <h3>1- Download the full project from this link:</h3>
-<code>https://github.com/aabouissa/blog-django-ar/archive/master.zip</code>
+<code>https://github.com/nize1963/Nize_Eng/archive/master.zip</code>
 
 or
 
 you can clone the repository using this code:
-<code>git clone https://github.com/aabouissa/blog-django-ar.git</code>
+<code>git clone https://github.com/nize1963/Nize_Eng/.git</code>
 
 
 <h3>2- Create your virtual environment:</h3>
