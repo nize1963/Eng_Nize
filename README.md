@@ -2,7 +2,7 @@
 
 Project from scratch for arab web developers who search for a full project using django consept.
 
-#framework used:
+# framework used:
 <ul>
     <li>Django 3.0.5</li>
     <li>Bootstrap 4.4.x</li>
@@ -10,7 +10,7 @@ Project from scratch for arab web developers who search for a full project using
     <li>Font awesome</li>
 </ul>
 
-#Libraries  used:
+# Libraries  used:
 <ul>
     <li>Pillow</li>
     <li>Crispy form</li>
