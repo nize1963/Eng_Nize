@@ -1,6 +1,7 @@
 # Nize Site
 
 n_i_z_e 1_9_6_3
+
 Project from scratch for arab web developers who search for a full project using django consept.
 
 # framework used:
